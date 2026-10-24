@@ -1,0 +1,14 @@
+C:\Users\Owner\Hacktober\Hacktoberfest\bin\Debug\net8.0\Hacktoberfest.exe
+C:\Users\Owner\Hacktober\Hacktoberfest\bin\Debug\net8.0\Hacktoberfest.deps.json
+C:\Users\Owner\Hacktober\Hacktoberfest\bin\Debug\net8.0\Hacktoberfest.runtimeconfig.json
+C:\Users\Owner\Hacktober\Hacktoberfest\bin\Debug\net8.0\Hacktoberfest.dll
+C:\Users\Owner\Hacktober\Hacktoberfest\bin\Debug\net8.0\Hacktoberfest.pdb
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.AssemblyInfoInputs.cache
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.AssemblyInfo.cs
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.dll
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\refint\Hacktoberfest.dll
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.pdb
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\Hacktoberfest.genruntimeconfig.cache
+C:\Users\Owner\Hacktober\Hacktoberfest\obj\Debug\net8.0\ref\Hacktoberfest.dll
