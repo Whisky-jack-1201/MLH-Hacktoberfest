@@ -89,7 +89,7 @@ public class Program
 
 	private static async Task<string> GenerateMasterDescriptorAsync()
 	{
-		string apiKey = "AQ.Ab8RN6LMUTHGeFrVJ8H2Yl7_tvCaKTgseNvcYM41SdqX6gXP-A"
+		string apiKey = "<API Key Here>"
 			?? throw new InvalidOperationException("Set the GEMINI_API_KEY environment variable.");
 		const string prompt =
 			"Create a concise, evocative short description for a fantasy dungeon. " +
